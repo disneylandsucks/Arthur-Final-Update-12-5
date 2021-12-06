@@ -24,7 +24,7 @@ const controlCircleSize = 25
 let shirtControlCircleData
 let drawingControlCircleData
 
-let FunStuffControlCircleData
+let funstuffcontrolcircledata
 
 let toggleButtons
 const toggleButtonWidth = 100
